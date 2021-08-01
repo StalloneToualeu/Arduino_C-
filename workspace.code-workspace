@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\Tutos_web\\Hallo_Welt"
+		},
+		{
+			"name": "ESP32serverweb",
+			"path": "..\\..\\Documents\\PlatformIO\\Projects\\ESP32serverweb"
+		}
+	],
+	"settings": {}
+}
