@@ -1,0 +1,38 @@
+package Tutos;
+
+public class Hallo {
+	
+	public static String Name() {
+		
+		return "Stallone";
+	}
+	/*----------------------------------------------------------*/
+public static String prenom (String prn) {
+		
+		return prn;
+	}
+     /*----------------------------------------------------------*/
+public static int stallone(int a , int b) {
+	
+	return a+b;
+}
+public static double division(int a) {
+	
+	return a/2;
+}
+       /*----------------------------------------------------------*/
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          System.out.println("Hallo welt");     
+         int c= stallone(4,5);
+        
+         System.out.println("Name eingeben: "+ Name()); 
+         
+         
+         System.out.println("Name eingeben: "+ prenom ("paky"));
+         
+         System.out.println("c= "+ c);
+         System.out.println(c+ " Hallo welt"); 
+	}
+
+}
